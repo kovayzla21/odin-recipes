@@ -2,3 +2,13 @@ img {
     height: auto;
     width: 300px;
 }
+
+h1 {
+    color: blueviolet;
+    background-color: darkorange;
+}
+
+* {
+    background-color: aqua;
+    color: darkblue;
+}
